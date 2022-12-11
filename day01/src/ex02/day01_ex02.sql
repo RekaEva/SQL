@@ -3,4 +3,4 @@ SELECT  pizza_name
 UNION
 SELECT  pizza_name
 		FROM menu
-ORDER BY pizza_name;
+ORDER BY pizza_name DESC;
